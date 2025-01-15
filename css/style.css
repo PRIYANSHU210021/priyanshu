@@ -269,7 +269,7 @@ header.sticky{
 }
 
 .box h3{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
     margin-bottom: 10px;
 }
@@ -474,7 +474,7 @@ form .send-btn:hover{
         padding: 14px 5%;
     }
     section{
-        padding: 90px 3% 80px;
+        padding: 90px 5% 80px;
     }
     .footer{
         padding: 18px 5%;
@@ -587,7 +587,4 @@ form .send-btn:hover{
         font-size: 11px;
         padding: 9px 4px;
     }
-
 }
-
-
